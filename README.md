@@ -15,3 +15,6 @@
 ![Bharath kalkote's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath-kalkote23&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bharath-kalkote23&theme=radical)
 [Contribution Graph](https://activity-graph.herokuapp.com/graph?username=bharath-kalkote23&theme=dracula)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bharath-kalkote23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
