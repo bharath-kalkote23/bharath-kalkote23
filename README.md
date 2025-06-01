@@ -1,3 +1,9 @@
+## About me
+Python enthusiast 🐍 | Machine Learning 🤖 | Deep Learning 🧠 | AI Explorer 🚀  
+Passionate about solving complex problems and building smart systems using data.  
+Currently diving into GenAI 🌊 and constantly learning new technologies.    
+Check out my GitHub for projects and collaborations! 🚀
+
 ## 🖥 Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
