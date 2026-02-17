@@ -1,8 +1,8 @@
 ## About me
-Python enthusiast 🐍 | Machine Learning 🤖 | Deep Learning 🧠 | AI Explorer 🚀  
+Python | Machine Learning | SQL | HTML-CSS | Java Script   
 Passionate about solving complex problems and building smart systems using data.  
-Currently diving into GenAI 🌊 and constantly learning new technologies.    
-Check out my GitHub for projects and collaborations! 🚀
+Currently diving into GenAI  and constantly learning new technologies.    
+Check out my GitHub for projects and collaborations! 
 
 ## 🖥 Tech Stack:
 
