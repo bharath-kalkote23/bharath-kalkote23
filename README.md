@@ -13,10 +13,4 @@ Check out my GitHub for projects and collaborations! 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-## 📈 GitHub Stats:
 
-![Bharath kalkote's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharath-kalkote23&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=bharath-kalkote23&theme=radical)
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bharath-kalkote23&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
